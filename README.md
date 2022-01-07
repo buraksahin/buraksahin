@@ -1,8 +1,4 @@
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=buraksahin&theme=aura_dark&show_icons=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
-  <br>
-</p>
+
 
 <p align="center">
     <a href="https://github.com/buraksahin?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
@@ -22,3 +18,10 @@
       <a href="https://github.com/buraksahin?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-FF8800?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/buraksahin?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
 </p>
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=buraksahin&theme=aura_dark&show_icons=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
+  <br>
+</p>
+
