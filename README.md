@@ -1,6 +1,6 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=buraksahin&theme=aura_dark&show_icons=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
   <br>
 </p>
 
