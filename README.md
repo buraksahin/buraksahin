@@ -1,7 +1,4 @@
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
-  <br>
-</p>
+
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=buraksahin&theme=aura_dark&show_icons=true">
   <br>
@@ -22,4 +19,13 @@
     <a href="https://github.com/buraksahin?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/buraksahin?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
         <a href="https://github.com/buraksahin?tab=repositories&language=docker" target="_blank"><img alt="docker" src="https://img.shields.io/badge/-docker-0066FF?style=flat-square&logo=docker&logoColor=white"></a>
+</p>
+
+
+
+
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
+  <br>
 </p>
