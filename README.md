@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=buraksahin&theme=aura_dark&show_icons=true">
-  <br>
-  </p>
-
 <p align="center">
       <a href="https://github.com/buraksahin?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/buraksahin?tab=repositories&language=Racket" target="_blank"><img alt="Racket" src="https://img.shields.io/badge/-Racket-0066FF?style=flat-square&logo=racket&logoColor=white"></a>
