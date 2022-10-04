@@ -1,13 +1,4 @@
-
-
-
-
-
-
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=buraksahin&layout=compact&hide_border=true&theme=aura_dark&langs_count=12">
-  <br>
-</p><p align="center">
       <a href="https://github.com/buraksahin?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
       <a href="https://github.com/buraksahin?tab=repositories&language=Racket" target="_blank"><img alt="Racket" src="https://img.shields.io/badge/-Racket-0066FF?style=flat-square&logo=racket&logoColor=white"></a>
       <a href="https://github.com/buraksahin?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
